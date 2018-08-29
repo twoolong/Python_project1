@@ -1,2 +1,2 @@
 # Python_project1
-For posting my analytic Python scripts and Jupyter Notebooks
+NLM PubMed health literacy query and metadata record analysis
